@@ -5,8 +5,8 @@ module.exports = {
     user: "aalsalmi",
     password: "Abcd1234",
     connectString: "oracle.cise.ufl.edu/orcl",
-    poolMin: 10,
-    poolMax: 10,
+    poolMin: 4,
+    poolMax: 4,
     poolIncrement: 0
   }
 };
